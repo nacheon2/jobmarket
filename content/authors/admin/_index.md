@@ -68,4 +68,6 @@ highlight_name: true
 
 Cheon Lee is a doctoral student at the School of Public Affairs and Administration, Rutgers University - Newark. His research interest include public and nonprofit management, nonprofit and citizen participation, education policy, and diversity & equity. Before joining Rutgers University, he served as a Republic of Korea Air Force officer focusing on government-business contracts and intelligence operations.
 
+His general research agenda explores the effects of nonprofit commercialization and nonprofits' role in stimulating citizen political participation. His current studies examine the effect of message framing on commercialization and charitable giving, and the relationship between engagement in voluntary organizations and online political participation.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
